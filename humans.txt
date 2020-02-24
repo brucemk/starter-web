@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> The Developer <twitter>
+    The Developer
 
 # THANKS
 
