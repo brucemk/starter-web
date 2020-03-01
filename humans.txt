@@ -7,7 +7,8 @@
 
 # THANKS
 
-  Thanks for this refresher course
+  Thanks for this refresher course. Continue with the course to the end to learn more
+  DevOps concepts if this course.
 
 # TECHNOLOGY COLOPHON
 
